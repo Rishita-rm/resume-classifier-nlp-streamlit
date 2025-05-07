@@ -1,5 +1,9 @@
 # 📚 AI Resume Screening App
 
+![Made with Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-blue?logo=streamlit)
+![Python](https://img.shields.io/badge/Language-Python-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 A Streamlit-based NLP-powered resume screening tool that classifies resumes into job categories and ranks them by relevance. It also compares resumes against job descriptions using cosine similarity.
 
 ---
@@ -104,5 +108,4 @@ Generate this automatically (recommended):
 ```bash
 pip freeze > requirements.txt
 ```
-
 
