@@ -94,5 +94,15 @@ Rishita Makkar
 2. Push it to GitHub — it will render beautifully and make your repo more attractive.
 
 Let me know if you want me to generate the matching `requirements.txt` or zip the full folder for upload.
+
+---
+
+## ✅ 2. `requirements.txt`
+
+Generate this automatically (recommended):
+
+```bash
+pip freeze > requirements.txt
 ```
+
 
